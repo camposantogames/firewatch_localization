@@ -88,13 +88,15 @@ If this is too complicated, no worries! We still want to share your work with ou
 
 Licensing
 -----------
-All English game content provided here is Copyright 2016, Campo Santo, all rights reserved. It is, howver, free for you to use in creating a localized copy. A localized copy is defined as a complete, line-for-line translation of the English text provided into another language.
+All english text content provided in this repository is Copyright 2016, Campo Santo, all rights reserved. 
 
-By contributing new localizations back to the community, you're agreeing to license them to Campo Santo and to all fans of Firewatch to use and modify (see below).
+However, you are permitted a use these strings as a reference for creating a "community localization", meaning a complete, line-for-line translation of the English text to another language, shared with the community as specified below.
 
 
-Community Localization licensing
+Community localization licensing
 -----------
-All community-contributed localizations MUST be licensed under the Creative Commons "BY-NC 4.0" License, available here: http://creativecommons.org/licenses/by-nc/4.0/
+We ask that, in creating a localization, you contribute it back to the community. If you do so, we ask that you send a copy to us (see below) and release it with the following license text included in the repository: 
+
+All Firewatch community-contributed localizations are licensed under the Creative Commons "BY-NC 4.0" License, available here: http://creativecommons.org/licenses/by-nc/4.0/
 
 Others players are free to access, play, and remix your localization strings so long as they, too, contribute them back to this repository free of charge. In this way, people will be able to improve upon the work of others and offer the widest variety of high-quality translations of this game.
