@@ -83,12 +83,11 @@ Contributing back to the community
 -----------
 When your localization is tested ready to be shared, contribute it back to this repository so others can benefit from it. To do so, the best way is to fork the repo and send us a pull request: https://help.github.com/articles/fork-a-repo/
 
-If this is too complicated, no worries! We still want to share your work with out community. Just create a new archive or zipfile of your project structure and email info@camposanto.com and we will add your work (with proper credit) to this repository for you.
+If this is too complicated, no worries! We still want to share your work with out community. Just create a new archive or zipfile of your project structure and email patrick@camposanto.com and we will add your work (with proper credit) to this repository for you.
 
 
 Licensing
 -----------
-
 All English game content provided here is Copyright 2016, Campo Santo, all rights reserved. It is, howver, free for you to use in creating a localized copy. A localized copy is defined as a complete, line-for-line translation of the English text provided into another language.
 
 By contributing new localizations back to the community, you're agreeing to license them to Campo Santo and to all fans of Firewatch to use and modify (see below).
