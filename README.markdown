@@ -24,6 +24,19 @@ At the top level of the project, open the file `SupportLanguages.loc`. Inside yo
 Now open the `vg_mt` folder. All the strings in the game are here as a series of files. The filename is a "section", which is a bunch of lines organized around concept or a conversation topic. The files are in _JSON format_ using _Unicode (UTF-8) encoding_. We recommend using a text editor that understands Unicode automatically and can use JSON syntax highlighting, such as Sublime Text.
 
 
+Playing Firewatch with fan localizations
+------------
+
+First, find your Localization folder inside your computer's "persistant data path". This path is located on different places according to your OS. 
+
+Mac: `/Users/<YourUserName>/Library/Application Support/CampoSanto/Firewatch/Localization`
+Windows: `C:\Users\<YourUserName>\AppData\LocalLow\CampoSanto\Firewatch/Localization`
+
+Download this repo onto your computer. Then, copy the *contents* of all of the localization folders into the path above. Not the folders themselves, just the contents. When you're done, all of the language files, plus the SupportedLanguages.loc file, shoudl all be in one directory together.
+
+Start Firewatch and you should now see a language dropdown with all these new language options included.
+
+
 JSON Syntax
 ------------
 
@@ -51,24 +64,26 @@ The example above is very simple and doesn't include some issues you will encoun
 Also, remember to save your file as UTF-8 so that non-western characters will be displayed properly.
 
 
-Creating & Testing your localization
+Creating your own localization
 -----------
 Your localization should have a unique file extension at the end of every file. Country codes work great for this: `.en_uk` specified "English, United Kingdom" and you are welcome to mirror that style for your own locale. Make sure every file has this unique extension and that you organize your files into a subdirectory the same way.
 
-To test your localization locally, first make sure that _every file in it is valid JSON_ (see above). Then, add a new line to the `SupportedLanguages.loc` file at the root of this project, with the name of your language, a pipe, and the file extension you used.
+To test your localization locally, first make sure that _every file in it is valid JSON_ (see above). Then, add a new line to the `SupportedLanguages.loc` file at the root of this project, with the name of your language, a pipe, and the file extension you used. See the next section for how to move these files into a place where Firewatch can use them.
 
-Next, find your Localization folder inside your computer's "persistant data path". This path is located on different places according to your OS. 
-
-Mac: `/Users/<YourUserName>/Library/Application Support/CampoSanto/Firewatch/Localization`
-Windows: `C:\Users\<YourUserName>\AppData\LocalLow\CampoSanto\Firewatch/Localization`
-
-First, let's test Mëtal, our psuedolanguage we at Campo Santo use to test loc. Copy all of the files inside of the vg_mt directory into the Localization folder, along with `SupportedLanguages.loc`. Restart Firewatch and you should now see a languages dropdown in the settings menu; changing the language to Metal should immediately translate all menus into our weird fake language.
+Before you test your own, let's first test Mëtal, our psuedolanguage we at Campo Santo use to test loc. Copy all of the files inside of the vg_mt directory into the Localization folder, along with `SupportedLanguages.loc`. Restart Firewatch and you should now see a languages dropdown in the settings menu; changing the language to Metal should immediately translate all menus into our weird fake language.
 
 Now try doing the same with your own localization. Make sure `SupportedLanguages.loc` is updated with your new info, and then copy it and the contents of your localization's subdirectory into the persistent data path's Localization directory. When you're done, that directory should contain the Metal files AND your own loc files, all in the same folder. Restart Firewatch and see if your language works!
 
 When Firewatch can't find a localized version of a string in the selected language, it will always fall back to English and display that. If you're seeing English strings which you think you've translated, several things might be wrong. Before you open a Github issue and write to us, first test that same string, in game, in Mëtal. If it works in that localization, but not in your own, something is wrong with your files! Some things to check for: filename typos, missing strings, unclosed or unescaped quotation marks, or other issues that would invalidate your JSON.
 
 If you're still stuck, try opening a Github issue so that we or another member of the localization community can help.
+
+
+Contributing back to the community
+-----------
+When your localization is tested ready to be shared, contribute it back to this repository so others can benefit from it. To do so, the best way is to fork the repo and send us a pull request: https://help.github.com/articles/fork-a-repo/
+
+If this is too complicated, no worries! We still want to share your work with out community. Just create a new archive or zipfile of your project structure and email info@camposanto.com and we will add your work (with proper credit) to this repository for you.
 
 
 Licensing
