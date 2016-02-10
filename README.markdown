@@ -21,6 +21,8 @@ Each language is in its own top-level directory, named by the language code. We 
 
 At the top level of the project, open the file `SupportLanguages.loc`. Inside you'll see the languages contained in our repo and their short language codes. When copied into the proper directory on your computer, this file tells the Firewatch app which language options to display in the Settings menu.
 
+Also note the file `localization.en_us`, which is by far the largest in the project. This contains every string in the game that's NOT a conversation between Henry and Delilah, which leaves a lot of strings, including in-game notes, menus and all other UI text.
+
 Now open the `vg_mt` folder. All the strings in the game are here as a series of files. The filename is a "section", which is a bunch of lines organized around concept or a conversation topic. The files are in _JSON format_ using _Unicode (UTF-8) encoding_. We recommend using a text editor that understands Unicode automatically and can use JSON syntax highlighting, such as Sublime Text.
 
 
