@@ -5,7 +5,7 @@ Thanks for your interest in making Firewatch more accessible for people around t
 
 We're making available our full text-string database for this purpose. We invite you to localize these, test them out, and contribute them back to this repository for others to use. Work contributed back must include the MIT license, found below.
 
-At present, Firewatch's included fonts and layouts do not support Unicode characters outside of the standard Western set. We apologize for this limitation and hope that we will be able to remove it someday.
+At present, Firewatch's included fonts and layouts do not support characters outside the ISO Latin-1 set. We apologize for this limitation and hope that we will be able to remove it at some point.
 
 All English game content provided here is copyright 2016, Campo Santo. All rights reserved.
 
