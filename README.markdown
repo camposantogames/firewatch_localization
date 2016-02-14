@@ -1,9 +1,11 @@
 Firewatch Community Localization Project
 ==============================
 
-Thanks for your interest in making Firewatch more accessible for people around the world! As a small team of developers, we’re unable to offer complete translations of our game into all the languages people have asked us for… which is where the amazing fan community comes in.
+Thanks for your interest in making Firewatch more accessible for people around the world! As a small team of developers, we’re unable to offer complete translations of our game into all the languages people have asked us for… which is where you come in.
 
 We're making available our full text-string database for this purpose. We invite you to localize these, test them out, and contribute them back to this repository for others to use. Work contributed back must include the MIT license, found below.
+
+At present, Firewatch's included fonts and layouts do not support Unicode characters outside of the standard Western set. We apologize for this limitation and hope that we will be able to remove it someday.
 
 All English game content provided here is copyright 2016, Campo Santo. All rights reserved.
 
