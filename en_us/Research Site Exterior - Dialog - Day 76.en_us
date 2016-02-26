@@ -1,4 +1,5 @@
 {
+  "Fenced Area": "Fenced Area",
   "Henry": "Henry",
   "Alright, I’m here.": "Alright, I’m here.",
   "I'm here.": "I'm here.",
@@ -35,6 +36,7 @@
   "There’s a notice out here to hikers saying stay away.  Apparently someone named Dr. Simmons is in charge.": "There’s a notice out here to hikers saying stay away.  Apparently someone named Dr. Simmons is in charge.",
   "Should you have? Is any of this strange to you?": "Should you have? Is any of this strange to you?",
   "I don’t know. All I know is these pasty dorks have been out here for years and sometimes their supplies get mixed in with ours. That’s it.": "I don’t know. All I know is these pasty dorks have been out here for years and sometimes their supplies get mixed in with ours. That’s it.",
+  "Bee Sting": "Bee Sting",
   "I got stung by a bee.": "I got stung by a bee.",
   "Report bee sting": "Report bee sting",
   "Okay.": "Okay.",
@@ -42,6 +44,7 @@
   "Did it hurt?": "Did it hurt?",
   "Yes, kind of.": "Yes, kind of.",
   "I’m sorry.": "I’m sorry.",
+  "Can't get in": "Can't get in",
   "Alright, I’ve beat the hell out of this gate latch, tried to pry it open and nada, I can’t get in.": "Alright, I’ve beat the hell out of this gate latch, tried to pry it open and nada, I can’t get in.",
   "I can't get in.": "I can't get in.",
   "Okay. I've given it the good college try and no dice.": "Okay. I've given it the good college try and no dice.",
