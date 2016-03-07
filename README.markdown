@@ -1,13 +1,15 @@
-Firewatch Community Localization Project
+Firewatch Community Localization
 ==============================
 
-Thanks for your interest in making Firewatch more accessible for people around the world! As a small team of developers, we’re unable to offer complete translations of our game into all the languages people have asked us for… which is where you come in.
+Hello! This is Patrick from Campo Santo. At present, we've contracted professional translators to create full-text localizations of Firewatch in five languages: Spanish, French, Russian, German and Simplified Chinese. We love seeing non-english speakers play our game, but as a small team we have limited resources and aren't able to localize it for everyone. 
 
-We're making available our full text-string database for this purpose. We invite you to localize these, test them out, and contribute them back to this repository for others to use. Work contributed back must include the MIT license, found below.
+That's why we've posted our full text-string database here: *localization by and for fans*. If you love Firewatch and want to make it more accessible to others, feel free to download the data, test it out, and contribute your translations back to this repository for others to download and use. 
 
-Firewatch is currently subtitled in English and Russian. We have decided to also pursue professional localizations in German, Spanish, French and Simplified Chinese. We'll update this README if we add any more official localizations.
+Firewatch is currently subtitled in English and Russian on Steam. Our professional localizations in German, Spanish, French and Simplified Chinese are coming soon for Steam and PS4. We'll update this README as this patch arrives, as well as if we add any more official localizations.
 
-At present, Firewatch's included fonts and layouts do not support characters outside the ISO Latin-1 set. We apologize for this limitation and hope that we will be able to remove it at some point.
+Worth noting: a [community-run Firewatch project](https://www.transifex.com/firewatch/firewatch-localization) has also sprung up on Transifex, using the data found here. If you're interested in contributing, take a look!
+
+Important note: at present, Firewatch's included fonts and layouts do not support characters outside the ISO Latin-1 set. We apologize for this limitation and hope that we will be able to remove it at some point.
 
 All English game content provided here is copyright 2016, Campo Santo. All rights reserved.
 
@@ -16,7 +18,7 @@ Where to find the data
 -----------
 Here on our Github page, you’ll find complete text dumps of every string in the game— from menu choices, to spoken dialog captions, to UI and note text. You can download the entire repository as a Zip file or as a full Git repo. 
 
-The Zip file contains everything you need and is the simpletst for most people. Git is somewhat complicated to learn, but makes it possible to track your changes and merge in updated versions of our English source strings. If you're serious about doing a full fan loc, we recommend making a Github account and learning how to pull down a git repo: https://help.github.com/articles/set-up-git/
+The Zip file contains everything you need and is the simpletst for most people. Git is somewhat complicated to learn, but makes it possible to track your changes and merge in updated versions of our English source strings. If you're serious about doing a full fan loc, we recommend making a Github account and learning how to [pull down a git repo](https://help.github.com/articles/set-up-git/). 
 
 
 Project Organization
@@ -35,8 +37,9 @@ Playing Firewatch with fan localizations
 
 First, find your Localization folder inside your computer's "persistant data path". This path is located on different places according to your OS. 
 
-Mac: `/Users/<YourUserName>/Library/Application Support/CampoSanto/Firewatch/Localization`
-Windows: `C:\Users\<YourUserName>\AppData\LocalLow\CampoSanto\Firewatch/Localization`
+    Mac: `/Users/<YourUserName>/Library/Application Support/CampoSanto/Firewatch/Localization`
+
+    Windows: `C:\Users\<YourUserName>\AppData\LocalLow\CampoSanto\Firewatch/Localization`
 
 Download this repo onto your computer. Then, copy the *contents* of all of the localization folders into the path above. Not the folders themselves, just the contents. When you're done, all of the language files, plus the SupportedLanguages.loc file, shoudl all be in one directory together.
 
@@ -87,22 +90,24 @@ If you're still stuck, try opening a Github issue so that we or another member o
 
 Contributing back to the community
 -----------
-When your localization is tested ready to be shared, contribute it back to this repository so others can benefit from it. To do so, the best way is to fork the repo and send us a pull request: https://help.github.com/articles/fork-a-repo/
+You may find in-progress localizations to contribute to over at [Transifex](https://www.transifex.com/firewatch/firewatch-localization). This is a community-run project (unaffiliated with Campo Santo) but it's the most active fan localization community at present.
 
-If this is too complicated, no worries! We still want to share your work with out community. Just create a new archive or zipfile of your project structure and email patrick@camposanto.com and we will add your work (with proper credit) to this repository for you.
+If you have a complete localization of your own you'd like to share, contribute it back to this repository so others can benefit from it. To do so, the best way is to fork the repo and send us a pull request: https://help.github.com/articles/fork-a-repo/
+
+If this is too complicated, no worries! I'm happy to help. Just create a new archive or zipfile of your project structure and email patrick@camposanto.com. I'll add your work (with proper credit) to this repository so others can find it more easily.
 
 
 Licensing
 -----------
-All english text content provided in this repository is Copyright 2016, Campo Santo, all rights reserved. 
+All English text content provided in this repository is Copyright 2016, Campo Santo, all rights reserved. 
 
-However, you are permitted a use these strings as a reference for creating a "community localization", meaning a complete, line-for-line translation of the English text to another language, shared with the community as specified below.
+However, you are permitted a use these strings as a reference for creating a "community localization", meaning a complete, line-for-line translation of the English text to another language.
 
 
 Community localization licensing
 -----------
 We ask that, in creating a localization, you contribute it back to the community. If you do so, we ask that you send a copy to us (see below) and release it with the following license text included in the repository: 
 
-All Firewatch community-contributed localizations are licensed under the Creative Commons "BY-NC 4.0" License, available here: http://creativecommons.org/licenses/by-nc/4.0/
+All Firewatch community-contributed localizations are licensed under the [Creative Commons "BY-NC 4.0" License](http://creativecommons.org/licenses/by-nc/4.0/), visible here: http://creativecommons.org/licenses/by-nc/4.0/
 
 Others players are free to access, play, and remix your localization strings so long as they, too, contribute them back to this repository free of charge. In this way, people will be able to improve upon the work of others and offer the widest variety of high-quality translations of this game.
