@@ -1260,5 +1260,6 @@
   "MapButton": "MapButton",
   "MapRegionButton": "MapRegionButton",
   "ConfirmButton": "ConfirmButton",
-  "LOADING": "LOADING"
+  "LOADING": "LOADING",
+  "NONE": "NONE"
 }
