@@ -1261,5 +1261,6 @@
   "MapRegionButton": "MapRegionButton",
   "ConfirmButton": "ConfirmButton",
   "LOADING": "LOADING",
-  "NONE": "NONE"
+  "NONE": "NONE",
+  "or": "or"
 }
