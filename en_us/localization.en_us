@@ -385,6 +385,7 @@
   "Use Key": "Use Key",
   "Gate Lock": "Gate Lock",
   "It's locked.": "It's locked.",
+  "It needs keys.": "It needs keys.",
   "I've got the key.": "I've got the key.",
   "I can't unlock it from this side.": "I can't unlock it from this side.",
   "It looks locked.": "It looks locked.",
@@ -1260,5 +1261,8 @@
   "Pause Menu": "Pause Menu",
   "MapButton": "MapButton",
   "MapRegionButton": "MapRegionButton",
-  "ConfirmButton": "ConfirmButton"
+  "ConfirmButton": "ConfirmButton",
+  "LOADING": "LOADING",
+  "NONE": "NONE",
+  "or": "or"
 }
