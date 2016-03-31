@@ -36,6 +36,8 @@ Playing Firewatch with fan localizations
 
 First, find your `Localization` folder inside your computer's "persistant data path". This path is located on different places according to your OS.
 
+Linux: `~/.config/unity3d/CampoSanto/Firewatch/Localization`
+
 Mac: `/Users/<YourUserName>/Library/Application\ Support/CampoSanto/Firewatch/Localization`
 
 Windows: `C:\Users\<YourUserName>\AppData\LocalLow\CampoSanto\Firewatch\Localization`
