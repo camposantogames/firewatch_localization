@@ -9,14 +9,14 @@ Firewatch is currently subtitled in English and Russian on Steam. Our profession
 
 Worth noting: a [community-run Firewatch project](https://www.transifex.com/firewatch/firewatch-localization) has also sprung up on Transifex, using the data found here. We are sharing the in-progress translations fans have worked on in this site in this repo, as well. If you're interested in contributing, take a look!  Huge thanks go out to @ner0 for organizing this effort. 
 
-Important note: at present, Firewatch's included fonts and layouts do not support characters outside the [ISO Latin-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) set and the basic [Cyrllic set](http://memory.loc.gov/diglib/codetables/4E.html). We apologize for this limitation and hope that we will be able to add further support at some point.
+Important note: at present, Firewatch's included fonts and layouts do not support characters outside the [ISO Latin-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) set and the basic [Cyrillic set](http://memory.loc.gov/diglib/codetables/4E.html). We apologize for this limitation and hope that we will be able to add further support at some point.
 
 All English game content provided here is Copyright 2016, Campo Santo. All rights reserved.
 
 
 Where to find the data
 -----------
-Here on our Github page, you’ll find complete text dumps of every string in the game—from menu choices, to spoken dialog captions, to UI and note text. You can download the entire repository as a Zip file or as a full Git repo.
+Here on our Github page, under the `en_us` folder, you’ll find complete text dumps of every string in the game—from menu choices, to spoken dialog captions, to UI and note text. You'll also find our demo localization in `vg_mt`, and various work-in-progress fan localizations. You can download the entire repository as a Zip file or as a full Git repo.
 
 The Zip file contains everything you need and is the simpletst for most people. Git is somewhat complicated to learn, but makes it possible to track your changes and merge in updated versions of our English source strings. If you're serious about doing a full fan loc, we recommend making a Github account and learning how to [pull down a git repo](https://help.github.com/articles/set-up-git/). 
 
