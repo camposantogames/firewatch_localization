@@ -1,16 +1,17 @@
 Firewatch Community Localization
 ==============================
 
-Hello! This is Patrick from Campo Santo. At present, we've contracted professional translators to create full-text localizations of Firewatch in five languages: Spanish, French, Russian, German and Simplified Chinese. We love seeing non-english speakers play our game, but as a small team we have limited resources and aren't able to localize it for everyone. 
+Hello! This is Patrick from Campo Santo. At present, Firewatch has been professionally translated in five languages: Spanish, French, Russian, German and Simplified Chinese. We love seeing non-english speakers play our game, but as a small team we have limited resources and aren't able to localize it for everyone. 
 
 That's why we've posted our full text-string database here: *localization by and for fans*. If you love Firewatch and want to make it more accessible to others, feel free to download the data, test it out, and contribute your translations back to this repository for others to download and use. 
 
 Firewatch is currently subtitled in English and Russian on Steam. Our professional localizations in German, Spanish, French and Simplified Chinese are coming soon for Steam and PS4. We'll update this README as this patch arrives, as well as if we add any more official localizations.
 
-Worth noting: a [community-run Firewatch project](https://www.transifex.com/firewatch/firewatch-localization) has also sprung up on Transifex, using the data found here. If you're interested in contributing, take a look!
+Worth noting: a [community-run Firewatch project](https://www.transifex.com/firewatch/firewatch-localization) has also sprung up on Transifex, using the data found here. We are sharing the in-progress translations fans have worked on in this site in this repo, as well. If you're interested in contributing, take a look!  Huge thanks go out to @ner0 for organizing this effort. 
 
-Important note: at present, Firewatch's included fonts and layouts do not support characters outside the [ISO Latin-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) set. We apologize for this limitation and hope that we will be able to remove it at some point.
-All English game content provided here is copyright 2016, Campo Santo. All rights reserved.
+Important note: at present, Firewatch's included fonts and layouts do not support characters outside the [ISO Latin-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) set and the basic [Cyrllic set](http://memory.loc.gov/diglib/codetables/4E.html). We apologize for this limitation and hope that we will be able to add further support at some point.
+
+All English game content provided here is Copyright 2016, Campo Santo. All rights reserved.
 
 
 Where to find the data
