@@ -1,0 +1,20 @@
+{
+  "Delilah": "Delilah",
+  "Oh. Also —": "Swoją drogą...",
+  "Those girls turned up.  Looks like you didn't kill them. Nobody did.": "Te dziewczyny się odnalazły. Najwyraźniej nie zabiłeś ich ani ty, \nani nikt inny.",
+  "They took some farmer's tractor for a joy ride down in Riverton and landed in jail.": "Ukradły w Riverton traktor jakiegoś rolnika i udały się na przejażdżkę, która skończyła się w więzieniu.",
+  "Henry": "Henry",
+  "Dodged a bullet, there.": "Kryzys zażegnany.",
+  "Phew.": "Uff.",
+  "Yeah, we’ve got enough unanswered shit to answer for, I’d say.": "I bez tego siedzimy po uszy w gównie, a końca nie widać.",
+  "Dammit.": "Cholera.",
+  "Those girls really did a number on you, huh?": "Te dziewczyny naprawdę zalazły ci za skórę, co?",
+  "No, I’m glad they’re not dead but it also means they weren’t part of what’s going on.": "Nie, całe szczęście, że żyją. Chociaż to oznacza, że nie mają nic wspólnego z naszą sytuacją.",
+  "Yeah, I suppose you’re right. You just have to keep searching.": "Tak, chyba masz rację. Musisz kontynuować swoje dochodzenie.",
+  "Yeah.": "Tak.",
+  "I wonder if they know anything. If there’s a way to ask them about whatever happened to their camp.": "Ciekawe, czy cokolwiek wiedzą. Gdyby istniała szansa \nna podpytanie ich o zdemolowane obozowisko...",
+  "I wonder if they know anything.": "Ciekawe, czy cokolwiek wiedzą.",
+  "I think we’d be smart to let sleeping dogs lie.": "Myślę, że lepiej nie wywoływać wilka z lasu.",
+  "You’re probably right.": "Pewnie masz rację.",
+  "So there's some good news for us, for whatever it's worth.": "To tyle jeśli chodzi o dobre wiadomości, jeśli są cokolwiek warte."
+}

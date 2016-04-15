@@ -1,0 +1,22 @@
+{
+  "Henry": "Henry",
+  "I can see the wire you're talking about. It looks like it's in good shape from here.": "Widzę przewód, o którym mówiłaś. Wygląda na to, że jest \nw dobrym stanie.",
+  "I can see the wire.": "Widzę przewód.",
+  "Delilah": "Delilah",
+  "Follow it up to the top of the trail, if you can. You can head back as soon as you give me the all clear.": "Podążaj za nim aż do końca szlaku. Możesz wrócić, \nkiedy dasz mi znać o jego stanie.",
+  "Got it.": "Jasne.",
+  "We really can't reach anyone any other way than these wires?": "Tylko te przewody umożliwiają nam komunikację?",
+  "Are we really cut off?": "Naprawdę jesteśmy odcięci?",
+  "What else do you suggest, smoke signals?": "A co innego proponujesz, sygnały dymne?",
+  "Just seems dangerous.": "Wydaje się to niebezpieczne.",
+  "If they don't hear from me for a few days they'll send someone out, but I'd rather it not come to that.": "Gdybym nie dała znaku życia przez kilka dni, przysłaliby tu kogoś. Wolałabym, żeby do tego nie doszło.",
+  "Okay, I see the wire at the top of a ridge.": "Widzę przewód przy grani.",
+  "Think you can get up there and have a look?": "Mógłbyś tam wejść i go sprawdzić?",
+  "Yeah, I think so.": "Tak myślę.",
+  "Yep, okay, the wire is down here.": "Dobra, znalazłem ten przewód.",
+  "Really? Awesome. Good find.": "Serio? Super, dobra robota.",
+  "It's like, I dunno, a mile and a half east of me.  You just follow the trail up the hill, you can't miss it.": "Jest około dwa kilometry na wschód ode mnie. Jeśli podążysz w górę szlaku, na pewno go nie przegapisz.",
+  "I'll go see what the damage is.": "Pójdę zobaczyć, co się stało.",
+  "Okay good. Any sign of those girls? Did they mess with anything?": "Dobrze. Żadnego znaku dziewczyn? Nie rozrabiały tam?",
+  "I'll look around.": "Rozejrzę się."
+}
