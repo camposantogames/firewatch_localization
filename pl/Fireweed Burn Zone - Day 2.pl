@@ -1,0 +1,22 @@
+{
+  "Henry": "Henry",
+  "I'm at that rock arch over the Canyon. Still no sign of those girls.": "Jestem przy tym łuku skalnym nad kanionem. Ani śladu tych dziewczyn.",
+  "I still can't find those girls.": "Nadal nie znalazłem tych dziewczyn.",
+  "Delilah": "Delilah",
+  "Try hiking back to your tower. You might have a better vantage point from up there.": "Wespnij się z powrotem na swoją wieżę. Może stamtąd będziesz miał lepszy widok.",
+  "Wow, I'm on top of a natural bridge out here.": "Jestem na szczycie jakiegoś naturalnego mostu.",
+  "Report natural rock bridge.": "Zgłoś naturalny most skalny",
+  "Really?! Is it a complete arch?": "Serio? Stanowi pełny łuk?",
+  "Oh… no, I guess the bridge is out, here.": "Nie, wydaje mi się, że most jest częściowo zawalony.",
+  "Still, I think I could jump this gap to get across the canyon.": "Ale myślę, że dam radę przeskoczyć na drugą stronę.",
+  "You're a regular Evel Knievel.": "Kaskader pierwsza klasa.",
+  "You should see the jumpsuit I'm wearing.": "Szkoda, że nie widzisz mojego zjawiskowego kostiumu.",
+  "CanyonConversationVolumeTarget.Orientation.Day2": "CanyonConversationVolumeTarget.Orientation.Day2",
+  "Canyon": "Kanion",
+  "From this burned section of forest I have no idea where to go. Their trail is pretty cold at this point.": "Jestem w spalonej części lasu i nie mam pojęcia, w którą stronę się udać. Trop tu zwietrzał.",
+  "I'm not sure where to go from this burned forest.": "Nie jestem pewien, dokąd mam iść.",
+  "Hmm, you're out by Mule Point. No one would camp out in the fireweed.": "Jesteś już za Mułowiskiem. Nikt nie rozbijałby obozu na pogorzelisku.",
+  "Well, I want you to stay out there, as a favor to little ol' me.": "Zrób mi przysługę i zostań tam.",
+  "My pleasure.": "Z przyjemnością.",
+  "We know these young women are sloppy. They must have left some sort of trail.": "Wiemy, że te dziewczyny to flejtuchy. Pewnie zostawiły po sobie jakiś ślad."
+}

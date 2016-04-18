@@ -1,0 +1,21 @@
+{
+  "Henry": "Henry",
+  "Huh. Look at that.": "A co my tu mamy?",
+  "Let's see. You look like a…": "Zobaczmy. Wyglądasz mi na...",
+  "Let me have a think.": "Jeszcze się zastanowię.",
+  "I'll think about it…": "Niech pomyślę...",
+  "Mayhem, Junior.": "Masa Junior.",
+  "Mayhem Junior.": "Masa Junior.",
+  "Bucket Junior.": "Biszkopt Junior.",
+  "Shelly. Shelly Duval.": "Iza. Izabella Scorupco.",
+  "Shelly Duvall.": "Izabella Scorupco.",
+  "Turt. Turt Reynolds.": "Al. Al Żółwino.",
+  "Turt Reynolds.": "Al Żółwino.",
+  "I could never send you away. Take me back.": "Nie mógłbym cię odesłać. Przyjmij mnie z powrotem.",
+  "Be Free!": "Bądź wolny!",
+  "We gotta cheese it little buddy.": "Musimy wiać, mały.",
+  "We gotta cheese it, Turt.": "Musimy wiać, Żółwino.",
+  "We gotta cheese it, Shelly.": "Musimy wiać, Scorupco.",
+  "We gotta cheese it, Mayhem.": "Musimy wiać, Masa.",
+  "We gotta cheese it, Bucket.": "Musimy wiać, Biszkopt."
+}

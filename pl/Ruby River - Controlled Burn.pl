@@ -1,0 +1,23 @@
+{
+  "Recent Burn": "Świeże pogorzelisko",
+  "Report controlled burn": "Zgłoś obszar kontrolowanego wypalania",
+  "Henry": "Henry",
+  "Hey, I'm out where they were doing the controlled burn.": "Hej. Dotarłem do miejsca, które wypalali.",
+  "Delilah": "Delilah",
+  "I thought you were headed to Wapiti Meadow; it's on the opposite side of your area. North of the lake.": "Myślałam, że idziesz w stronę Polany Wapiti. Jest po zupełnie drugiej stronie, na północ od jeziora.",
+  "Alright, good to know.": "Dobrze wiedzieć.",
+  "Let me know what you find.": "Daj mi znać, jeśli coś znajdziesz.",
+  "I found where they did the controlled burn.  I can hike right through here now.": "Znalazłem obszar kontrolowanego wypalania. \nMożna teraz z łatwością tędy przejść.",
+  "I'm at the fire-line near Ruby River.": "Dotarłem do wypalonego obszaru obok rzeki Ruby.",
+  "Normally they wouldn't do that so close to a body of water but I think they're extra-worried about a fire jumping the river and burning up to Two Forks now that there's someone in it.": "Normalnie nie przeprowadziliby tego tak blisko zbiornika wodnego, \nale chyba obawiają się, że wiatr mógłby zaprószyć ogień za rzekę \ni pożar objąłby Rozdroża, a to teren aktualnie zamieszkany.",
+  "Well, I'm extra appreciative of that.": "No cóż, doceniam to.",
+  "Let's see… the scout camp is south east of the river. There should be a pond on the way.": "Zobaczmy... obóz skautów jest na południowy wschód od rzeki. \nPo drodze powinieneś mijać staw.",
+  "Got it.": "Jasne.",
+  "What happens if a controlled burn gets out of control?": "Co się dzieje, gdy wypalanie kontrolowane wymyka się spod kontroli?",
+  "What happens if a burn gets out of control?": "Co się dzieje, gdy wypalanie wymyka się spod kontroli?",
+  "Someone gets fired.": "Ktoś traci zapał do pracy.",
+  "Ugh, are you serious?": "Mówisz poważnie?",
+  "FIRED??": "Zapał?",
+  "Oh come on, that one was an honest accident.": "Daj spokój, to na serio nie było celowe.",
+  "I’m not even in the mood for word play. That’s how wound up all this shit has me.": "Nie jestem w nastroju na gierki słowne. Właśnie tak to wszystko \nna mnie działa."
+}
