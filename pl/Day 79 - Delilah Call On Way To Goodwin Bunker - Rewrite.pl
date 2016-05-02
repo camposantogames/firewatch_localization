@@ -1,0 +1,20 @@
+{
+  "Delilah": "Delilah",
+  "What's your status?": "Jak wygląda sytuacja?",
+  "Well, whatever it is, keep me informed.": "Cokolwiek się dzieje, informuj mnie na bieżąco.",
+  "Henry": "Henry",
+  "I think I'm getting close.": "Chyba zbliżam się do celu.",
+  "Getting close.": "Jestem już blisko.",
+  "Alright well, I just got word that they're coming to get us. My place.": "Świetnie. Tymczasem ja dowiedziałam się, że wyruszyli po nas. \nPod moją wieżę.",
+  "You sound worried.": "Brzmisz na zmartwioną.",
+  "No. It… it's just…": "Nie... To tylko...",
+  "Brian?": "Brian?",
+  "I'll coordinate with the evac team and let you know when to head towards the tram. It's North. Far. Past where you found that cut back in May.": "Skontaktuję się z ekipą ratowniczą i dam ci znać, kiedy wyruszyć \nw stronę kolejki linowej. To daleko na północy, aż za skrótem, \nktóry znalazłeś w maju.",
+  "You know the place I'm talking about. It'll be where the tram crosses the ravine. Up north, past Beartooth Point. ": "Na pewno kojarzysz to miejsce. Kolejka wznosi się tam nad wąwozem. To na północy, za Niedźwiedzim Kłem. ",
+  "You find anything yet?": "Znalazłeś już coś?",
+  "Actually, yeah.": "Właściwie to tak.",
+  "This is a stub as we've recently decided to move the Goodwin tape to this area, rather than at the entrance to the bunker.": "This is a stub as we've recently decided to move the Goodwin tape to this area, rather than at the entrance to the bunker.",
+  "I'm still searching.": "Nadal szukam.",
+  "Okay.": "Dobra.",
+  "There's an emergency tram there that will let you hike to the rendezvous point at my lookout.": "Znajduje się tam wagonik, którym dotrzesz na miejsce zbiórki \ndo ewakuacji przy mojej wieży."
+}

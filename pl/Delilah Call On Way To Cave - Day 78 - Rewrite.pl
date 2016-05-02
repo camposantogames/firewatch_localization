@@ -1,0 +1,22 @@
+{
+  "Delilah": "Delilah",
+  "Hey. You… you didn't actually make that call, right? To the other lookout?": "To nie ty... skontaktowałeś się z tamtą wieżą, prawda?",
+  "It just stuck in my craw. I let myself imagine how fucked I would be if you'd been lying to me.": "Nie mogę wyrzucić tej myśli z głowy. Miałabym przejebane, gdyby okazało się, że mnie okłamywałeś.",
+  "But now that I've asked I kinda just wish I hadn't.": "Chociaż teraz zaczynam żałować, że o to spytałam.",
+  "Henry": "Henry",
+  "Of course I didn't. No way. They're just trying to pit us against each other.": "Oczywiście, że nie. Daj spokój. To oni chcą sprawić, żebyśmy skoczyli sobie do gardeł.",
+  "Of course not.": "Oczywiście, że nie.",
+  "Yeah… you're right.": "Tak... masz rację.",
+  "That's not going to happen, though.": "Nie uda im się to.",
+  "Thanks, Henry.": "Dzięki, Henry.",
+  "I don't even know how to call anyone other than you.": "Nawet nie wiem, jak skontaktować się z kimś poza tobą.",
+  "I couldn't even if I wanted to.": "Nie mógłbym, nawet gdybym chciał.",
+  "And please, rest assured I would have found someone with a better sense of a humor a long time ago.": "Możesz być pewna, że w innym wypadku już dawno znalazłbym sobie rozmówcę o lepszym poczuciu humoru.",
+  "Ha, okay. Thanks.": "Jasne. Dzięki.",
+  "I'm not even going to answer that. You could be lying to me too, you know.": "Pozwól, że to przemilczę. Właściwie ty też możesz mnie okłamywać.",
+  "I'm not even going to answer that.": "Pozwól, że to przemilczę.",
+  "I— I'm not.": "Nie okłamuję.",
+  "Yeah? I hope not.": "Mam taką nadzieję.",
+  "You know what? Forget I asked.": "Wiesz co? Zapomnij, że pytałam.",
+  "You know, I'm just freaking out. I'm alright.": "Po prostu zaczyna mi odbijać. Ale już mi lepiej."
+}

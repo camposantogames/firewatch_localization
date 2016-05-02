@@ -1,0 +1,23 @@
+{
+  "Henry": "Henry",
+  "You ever talk to anyone having to do with the scouts?": "Gadasz czasem ze skautami?",
+  "Delilah": "Delilah",
+  "No, they haven't been out here in awhile. And I generally don't have a lot to say to pre-teens.": "Nie, dawno ich tu nie było. Poza tym niewiele mam wspólnych tematów z małolatami.",
+  "Unless it's Brian Goodwin.": "Chyba że mowa o Brianie Goodwinie.",
+  "Well, if forced I can make conversation with anyone.  Plus it was sorta fun to hear about all of his nerdy hobbies.": "Przyparta do muru pogadam z każdym. Poza tym zabawnie było słuchać o jego wymyślnych zainteresowaniach.",
+  "What type of nerdy hobbies are we talking about with him? Like uh, marching band?": "O jakich zainteresowaniach mówimy? Był członkiem orkiestry marszowej?",
+  "Like what?": "Na przykład?",
+  "Oh no no no. Like, comics. Model rockets. \"Wizards & Wyverns.\" You know.": "Nie, nie. Lubił komiksy, modele rakiet, „Czarodziei i Wiwerny”. Takie tam.",
+  "Oof.": "Ech...",
+  "Hey, thanks to Brian, I can almost recall, by memory, the armor classes of most dragons.": "Dzięki Brianowi potrafię z pamięci wyrecytować klasy pancerzy większości smoków.",
+  "The what? No you can't.": "Że co? Nie wierzę.",
+  "Hey! Planar Dragons armor class, let's see—": "Dobra, klasa pancerza smoków planarnych, jak to było...",
+  "Okay no, I believe you. We're good. We're good.": "Dobra, wierzę ci. Spoko.",
+  "He wasn't a scout or a Webelo or whatever?": "Nie był skautem, ćwikiem, czy coś?",
+  "He wasn't scout material, huh?": "Nie nadawał się na skauta, co?",
+  "I got the sense the boy could barely tie his shoes let alone a clove hitch.": "Mam wrażenie, że ledwie potrafił zawiązać buty, a co dopiero wyblinkę.",
+  "What the hell's a clove hitch?": "Czym, do diabła, jest wyblinka?",
+  "Ah. Well, it's a knot you are probably too old and too stubborn to learn. You use it to make rafts and shelters and stuff like that.": "To taki węzeł, którego i tak nie nauczysz się wiązać, bo jesteś za stary i zbyt uparty. Przydatny przy tratwach czy prowizorycznych schronach.",
+  "You know how to tie one?": "Potrafisz taki zawiązać?",
+  "Heck no, I'd make a Webelo do it.": "W życiu, kazałabym to zrobić ćwikowi."
+}
